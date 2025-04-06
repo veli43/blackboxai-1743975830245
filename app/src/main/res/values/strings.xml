@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Call Recorder</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="status_ready">Status: Ready</string>
+    <string name="status_recording">Status: Recording</string>
+    <string name="recording_title">Recording Title</string>
+    <string name="recording_date">Date: %s</string>
+    <string name="play_button">Play</string>
+    <string name="delete_button">Delete</string>
+    <string name="refresh_button">Refresh Recordings</string>
+    <string name="notification_title">Call Recording</string>
+    <string name="notification_text">Recording in progress...</string>
+    <string name="delete_confirmation">Are you sure you want to delete this recording?</string>
+    <string name="delete_confirm">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="playback_error">Playback error occurred</string>
+    <string name="seekbar_content_description">Playback progress</string>
+</resources>
