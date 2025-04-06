@@ -1,0 +1,4 @@
+<resources>
+    <string name="notification_channel_name">Call Recorder Channel</string>
+    <string name="notification_channel_description">Channel for call recording notifications</string>
+</resources>
